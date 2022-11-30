@@ -1,0 +1,9 @@
+secrets.py
+token.json
+TODO
+logo
+reference
+__pycache__
+paho_mqtt/__pycache__
+pico_mirror/secrets.py
+
